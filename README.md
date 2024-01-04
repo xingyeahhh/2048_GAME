@@ -4,27 +4,6 @@ This is a simple implementation of the 2048 game written in C++. 2048 is a popul
 ## Installation
 To compile and run this game, you will need a C++ compiler such as g++. Follow these steps to install:
 
-Clone this repository to your local computer:
-
-bash
-Copy code
-git clone https://github.com/yourusername/2048-game.git
-Navigate to the repository directory:
-
-bash
-Copy code
-cd 2048-game
-Compile the game using the compiler:
-
-css
-Copy code
-g++ -o 2048 main.cpp grid.cpp game.cpp
-Run the game:
-
-Copy code
-./2048
-Usage
-Once the game is running, you can use the W, S, A, and D keys to move the blocks and combine them into larger numbers. The game ends when there are no valid moves left or when you reach the 2048 tile.
 
 ## Classes
 ### Grid
