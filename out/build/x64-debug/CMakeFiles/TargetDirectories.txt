@@ -1,0 +1,5 @@
+D:/github/2048_GAME/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/github/2048_GAME/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/github/2048_GAME/out/build/x64-debug/2048_GAME/CMakeFiles/2048_GAME.dir
+D:/github/2048_GAME/out/build/x64-debug/2048_GAME/CMakeFiles/edit_cache.dir
+D:/github/2048_GAME/out/build/x64-debug/2048_GAME/CMakeFiles/rebuild_cache.dir

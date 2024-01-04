@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/github/2048_GAME/out/build/x64-debug/2048_GAME/CMakeFiles/2048_GAME.dir/embed.manifest"
