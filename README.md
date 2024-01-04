@@ -1,5 +1,6 @@
 # 2048_GAME
 This is a simple implementation of the 2048 game written in C++. 2048 is a popular number puzzle game where the goal is to combine blocks with the same numbers on a 4x4 grid to achieve higher scores.
+
 ![image](https://github.com/xingyeahhh/2048_GAME/assets/123461462/859354e0-a607-413c-bf64-98c408344f11)
 
 ## Installation
